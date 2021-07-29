@@ -3,11 +3,11 @@ import java.util.ArrayList;
 public class ResourceCentre {
 
 
-	private static final int RETURN_ITEM = 4;
-	private static final int LOAN_ITEM = 3;
-	private static final int VIEW_ALL_ITEM = 1;
-	private static final int ADD_ITEMS = 2;
-	private static final int OPTION_QUIT = 5;
+	private static final int RETURN_ITEM = 4; //Done by Marcus
+	private static final int LOAN_ITEM = 3; //Done by Marcus
+	private static final int VIEW_ALL_ITEM = 1; //Done by Marcus
+	private static final int ADD_ITEMS = 2; //Done by Marcus
+	private static final int OPTION_QUIT = 5; //Done by Marcus
 
 	public static void main(String[] args) {
 
