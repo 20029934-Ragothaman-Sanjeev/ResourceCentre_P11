@@ -32,7 +32,7 @@ public class ResourceCentre {
 				ResourceCentre.viewAllChromebook(chromebookList);
 
 			} else if (option == ADD_ITEMS) {
-				// Add a new item
+				// Add a new items
 				ResourceCentre.setHeader("ADD");			
 				ResourceCentre.setHeader("ITEM TYPES");
 				System.out.println("1. Camcorder");
